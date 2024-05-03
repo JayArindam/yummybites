@@ -1,0 +1,9 @@
+.Offer-header{
+    height: 42vw;
+    margin: 20px auto;
+    background: url('/Offers.png') no-repeat;
+    background-size:contain;
+    position: relative;
+    border-radius: 38px;
+}
+
